@@ -20,3 +20,5 @@ This project attempts to solve the problem where a single ciphertext can be decr
 ## Results
 - The correct keys `k1` and `k2` will decrypt the ciphertext `task02.cryp` into `sentence_1.txt` and `sentence_2.txt`, respectively.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
